@@ -84,9 +84,6 @@ jupyter notebook G3_SE_UECS3414_GA.ipynb
 ```
 ├── G3_SE_UECS3414_GA.ipynb    # Main benchmark notebook
 ├── README.md                   # This file
-├── data/                      # Dataset directory
-├── runs/                      # Training outputs
-└── results/                   # Evaluation results
 ```
 
 ## 🔬 Methodology
